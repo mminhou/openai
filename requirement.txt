@@ -1,0 +1,6 @@
+tensorflow
+theano
+keras
+gym
+matplotlib
+h5py
